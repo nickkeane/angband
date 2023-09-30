@@ -201,8 +201,8 @@ The Alchemy shop (``5``)
   The Alchemy Shop deals in all types of potions and scrolls.
 
 The Magic User's Shop (``6``)
-  The Magic User's Shop deals in all sorts of rings, wands, amulets, and
-  staves.
+  The Magic User's Shop deals in all sorts of amulets, rings, rods, wands, 
+  and staves.
 
 The Black Market (``7``)
   The Black Market will sell and buy anything at extortionate prices.
